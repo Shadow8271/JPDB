@@ -20,3 +20,5 @@ It helps developers in faster coding, in-turn reduces development cost.
 # Talend API to use quries
 ![image](https://user-images.githubusercontent.com/63420835/172061940-07afadd6-6958-474e-aa56-63ce4f7587ea.png)
 
+# Baisc FrontEnd
+![image](https://user-images.githubusercontent.com/63420835/172062119-2a90b193-8bcb-4ea6-88d7-ed9e8f0e8113.png)
